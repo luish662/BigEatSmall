@@ -14,4 +14,5 @@ pip install pygame
 Mehr Details zur installation finden Sie auf folgender Seite:  https://www.pygame.org/wiki/GettingStarted
 
 Nun kann „big_eat_small_main.py“ ausgeführt werden und das Spiel startet. 
+
 Viel Spaß!
